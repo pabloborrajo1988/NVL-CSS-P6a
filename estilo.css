@@ -1,0 +1,42 @@
+.n1{
+  background-color: #FFFFFF;
+  font: italic small-caps bold 20px Georgia, sans-serif; /* fallback for older browsers */
+   //
+}
+.n2{
+  background-color: #FAFAFA;
+font: ultra-condensed italic small-caps bold 20px Georgia, sans-serif;}
+
+.n3{
+  background-color: #E6E6E6;
+}
+.n4{
+  background-color: #D8D8D8;
+font: ultra-condensed italic small-caps bold 20px Georgia, sans-serif;}
+
+.n5{
+  background-color:#BDBDBD;
+   font: italic small-caps bold 25px/32px Georgia, sans-serif
+
+}
+.n6{
+  background-color: #A4A4A4;
+ font: italic small-caps bold 25px/32px Georgia, sans-serif}
+.n7{
+  background-color: #848484;
+   font: italic small-caps bold 25px/32px Georgia, sans-serif
+}
+.n8{
+  background-color: #6E6E6E;
+  color:white;
+   font: italic small-caps bold 25px/30px Georgia, sans-serif
+}
+.n9{
+  background-color: #424242;
+  color:white;
+}
+.n10{
+  background-color: #000000;
+  color:white;
+    font: italic small-caps bold 20px Georgia, sans-serif;
+}
